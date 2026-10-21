@@ -1,0 +1,4 @@
+,RMSE_kgha
+Original real data,104.7
+"Corrupted, not cleaned",1947.8
+"Corrupted, then cleaned",104.3

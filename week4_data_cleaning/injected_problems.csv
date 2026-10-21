@@ -1,0 +1,15 @@
+year,variable,problem
+1975,yield_kgha,missing
+1989,yield_kgha,missing
+2003,yield_kgha,missing
+2011,yield_kgha,missing
+1995,prod_t,missing
+2016,prod_t,missing
+1982,area_ha,missing
+1998,yield_kgha,unit error x10 (hg/ha)
+2008,yield_kgha,unit error x10 (hg/ha)
+1993,area_ha,extra zero x10
+2019,prod_t,decimal slip /10
+2001,yield_kgha,text with thousands separator
+1971,yield_kgha,small error +25% (not detectable by rule)
+2012,all,duplicate row

@@ -1,0 +1,5 @@
+method,RMSE_kgha,MAE_kgha,MAPE_pct,bias_kgha,years_within_5pct,years_within_10pct,n_years,max_abs_error_kgha,p90_abs_error_kgha,MAE_production_Mt,MAE_pct_of_production
+naive_last_year,145.84,122.86,4.83,-42.45,21,32,34,320.9,210.37,1.06,4.83
+mean_last_3,135.72,104.22,4.07,-78.62,22,33,34,337.1,238.19,0.9,4.07
+trend_expanding,104.71,85.19,3.36,11.76,25,33,34,263.4,159.2,0.74,3.36
+trend_rolling20,109.59,86.32,3.37,-0.02,27,33,34,300.7,155.69,0.75,3.37
